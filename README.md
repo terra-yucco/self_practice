@@ -1,0 +1,2 @@
+# self_practice
+GitHub演習を自力で進めてみるリポジトリ
